@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logeshwaran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer seeking for a development environment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harilogu&label=Profile%20views&color=0e75b6&style=flat" alt="harilogu" /> </p>
 
