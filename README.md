@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logeshwaran</h1>
-<h3 align="center">A passionate frontend developer seeking for a development environment</h3>
+<h3 align="center">A passionate MERN developer seeking for a development environment</h3>
 <p>
 <img align="right" width="370px" height="290px" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harilogu&label=Profile%20views&color=0e75b6&style=flat" alt="harilogu" /> </p>
